@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+
+DSP / Firmware Engineer that likes tinkering.
 
 <!--
 **llwyd/llwyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
