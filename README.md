@@ -2,6 +2,10 @@
 
 DSP / Firmware Engineer that likes tinkering.
 
+- [blog](https://blog.llwyd.io/)
+
+
+
 <!--
 **llwyd/llwyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
